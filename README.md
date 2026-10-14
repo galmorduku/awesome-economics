@@ -26,6 +26,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Policy & Development Economics](#policy--development-economics)
 - [Financial & Monetary Economics](#financial--monetary-economics)
 - [Visualization & Analysis Tools](#visualization--analysis-tools)
+- [Business Calculators & Tools](#business-calculators--tools)
 - [Learning Resources](#learning-resources)
 - [Related Awesome Lists](#related-awesome-lists)
 
@@ -94,6 +95,10 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [ggplot2](https://ggplot2.tidyverse.org/) – Grammar-of-graphics plotting in R.
 - [Plotly](https://plotly.com/) – Interactive economic data visualizations.
 - [Tableau](https://www.tableau.com/) – BI tool used for economic dashboards.
+
+## Business Calculators & Tools
+
+- [SmartBizCalc](https://smartbizcalc.com/) – Free calculators for small business owners and self-employed professionals: tax estimates, profit margins, break-even analysis, contractor pricing, payroll, and 700+ other applied economics topics.
 
 ## Learning Resources
 
